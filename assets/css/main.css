@@ -1,4 +1,10 @@
-
+/*===========================
+    01.COMMON css 
+===========================*/
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap");
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   font-family: "Poppins", sans-serif;
@@ -10,8 +16,8 @@ body {
 }
 
 * {
-  margin: 0;
-  padding:0;
+  margin: 0%;
+  padding:0%;
   box-sizing: border-box;
 }
 
