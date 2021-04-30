@@ -6,6 +6,17 @@ html {
   scroll-behavior: smooth;
 }
 
+
+add to Home > Design > Custom CSS
+
+@media screen and (max-width:640px) {
+.row.sqs-row {
+    margin-left: 0;
+    margin-right: 0;
+}
+}
+
+
 body {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
@@ -14,15 +25,6 @@ body {
  
   overflow-x: hidden;
   background: #F4F7FC;
-
-
-
-@media screen and (max-width:640px) {
-.row.sqs-row {
-    margin-left: 0;
-    margin-right: 0;
-}
-}
 
 
 }
