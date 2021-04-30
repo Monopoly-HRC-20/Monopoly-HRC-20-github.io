@@ -9,7 +9,7 @@ body {
   font-style: normal;
   color: #65677E;
  
-  overflow-x: hidden;
+  overflow-x: hidden, length 50%;
   background: #F4F7FC;
 
   margin: 0;
