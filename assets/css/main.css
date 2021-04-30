@@ -1,18 +1,4 @@
-/*===========================
-    01.COMMON css 
-===========================*/
-@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap");
-html {
-  scroll-behavior: smooth;
-}
-
-
-add to Home > Design > Custom CSS
-
-@media screen and (max-width:640px) {
-.row.sqs-row {
-    margin-left: 0;
-    margin-right: 0;
+/*=========ml
 }
 }
 
