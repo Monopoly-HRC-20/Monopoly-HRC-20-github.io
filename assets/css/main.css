@@ -2,10 +2,7 @@
     01.COMMON css 
 ===========================*/
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap");
-html {
-  scroll-behavior: smooth;
-    overflow-y: hidden;
-}
+
 
 body {
   font-family: "Poppins", sans-serif;
