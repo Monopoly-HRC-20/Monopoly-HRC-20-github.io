@@ -1589,12 +1589,7 @@ p {
     margin-left: -70px;
   }
 }
-.gif
-{
-    position: absolute;
-    top:60px;
-    left: 80px;
-}
+
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .about-section .about-img img {
@@ -1607,6 +1602,27 @@ p {
     width: 100%;
   }
 }
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .about-section .gif img{
+    margin-left: -70px;
+  }
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .about-section .gif img{
+    width: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  .about-section .gif img {
+    width: 100%;
+  }
+}
+
+
 
 .about-section .about-content {
   margin-left: -15px;
