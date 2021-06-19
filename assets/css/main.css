@@ -1605,7 +1605,7 @@ p {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .about-section .gif img{
-    margin-left: -70px;
+    margin-right: 70px;
   }
 }
 
